@@ -10,6 +10,13 @@
 
 ### EDA:
 
+- It is observed that longer the tenure of the customer, lesser was the churn - as customers who are newly acquired to the network churned more as compared to the old customers.
+![tenure](/images/eda.png)
+
+- Most important features:
+
+![features](/images/imp_fea.png)
+
 ## Recommended Strategies for Identifying Churn
 The company can check,
 - If there is any significant decrease in the outgoing or incoming calls, and the volume of 2g or 3g data consumed. If so, it can indicate that the customer is planning to switch to another provider.
